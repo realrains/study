@@ -1,0 +1,3 @@
+rootProject.name = 'junit-in-action-3rd-edition'
+
+include('ch01')
