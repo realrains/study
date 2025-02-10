@@ -1,3 +1,4 @@
 rootProject.name = 'junit-in-action-3rd-edition'
 
-include('ch01')
+include(':ch01')
+include(':ch02')
